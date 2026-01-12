@@ -2,3 +2,6 @@
 Normative, Network and Transcriptomic Modelling of Sulcal Width in Health and Schizophrenia
 
 This repository contains information pertaining to the study Normative, Network and Transcriptomic Modelling of Sulcal Width in Health and Schizophrenia. The docker for sulci-processing, the corresponding sulcal parcellation in 'fsaverage' space as well as the code for minimalistic sulci visualisation were adapted from [Snyder et al. 2024](https://www.cell.com/neuron/article/S0896-6273(24)00568-3/fulltext). For normative modelling we created a docker that includes the [PCN-toolkit](https://pcntoolkit.readthedocs.io/en/latest/) and added extra automated features for model evaluation and visualization. Instructions for installing and running the docker for normative modelling can be found [here](https://github.com/iamjoostjanssen/NormModel_MorphoSim_SZ/blob/main/Docker_and_ReferenceModelling.txt). Spatial correlations were corrected by spin tests using code from [Váša et al. 2018](https://academic.oup.com/cercor/article/28/1/281/4566607?login=false). The Q-Q plots for all included sulci can be found [here](https://github.com/iamjoostjanssen/NormModel_Sulci/tree/main/Q-Q%20plots).
+
+
+<img width="1115" height="720" alt="graphical_summary_methods_inverted" src="https://github.com/user-attachments/assets/c2b5b285-38ea-4390-8292-0a581ef43c88" />
